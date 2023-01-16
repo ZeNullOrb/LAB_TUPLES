@@ -21,3 +21,10 @@ print(tupleList)
 
 firstNumber, secondNumber, thirdnumber = tupleList
 print(firstNumber, secondNumber, thirdnumber)
+
+#Bonus:
+print(letters.index("b"))
+
+print(result.count(2))
+
+print (list(enumerate(result)))
